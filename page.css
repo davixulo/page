@@ -1,3 +1,6 @@
+/* =========================
+   CONTENEDOR GENERAL
+   ========================= */
 .page-container1 {
   width: 100%;
   display: flex;
@@ -5,7 +8,7 @@
   align-items: center;
   flex-direction: column;
 }
- 
+
 .page-thq-mac-book-pro163-elm {
   width: 100%;
   height: 1080px;
@@ -13,10 +16,12 @@
   overflow: hidden;
   position: relative;
   align-items: flex-start;
-  flex-shrink: 0;
   background-color: rgba(240, 204, 210, 1);
 }
- 
+
+/* =========================
+   GALERÍA INFERIOR
+   ========================= */
 .page-thq-frame28-elm1 {
   gap: 30px;
   top: 898px;
@@ -26,11 +31,10 @@
   display: flex;
   position: absolute;
   align-items: center;
-  flex-shrink: 0;
   border-radius: 40px;
   background-color: rgba(237, 237, 181, 1);
 }
- 
+
 .page-thq-frame28-elm2 {
   top: -9px;
   left: 67px;
@@ -38,257 +42,62 @@
   height: 150px;
   display: flex;
   position: absolute;
-  align-items: flex-start;
-  flex-shrink: 0;
-  background-color: rgba(255, 255, 255, 1);
+  background-color: #fff;
 }
- 
-.page-thq-pasteljackdaniels-elm {
-  top: 0px;
-  left: 186px;
-  width: 150px;
-  height: 150px;
-  position: absolute;
-}
- 
-.page-thq-queue-elm1 {
-  top: 0px;
-  left: 372px;
-  width: 150px;
-  height: 150px;
-  position: absolute;
-}
- 
+
+.page-thq-pastelselvanegra-elm,
+.page-thq-pasteljackdaniels-elm,
+.page-thq-queue-elm1,
 .page-thq-postres-elm {
-  top: 3px;
-  left: 556px;
-  width: 154px;
-  height: 147px;
-  position: absolute;
-}
- 
-.page-thq-pastelselvanegra-elm {
-  top: 0px;
-  left: 0px;
   width: 150px;
   height: 150px;
   position: absolute;
 }
- 
-.page-thq-ellipse5-elm {
-  top: 158px;
-  left: 945px;
-  width: 700px;
-  height: 700px;
-  position: absolute;
-  border-color: rgba(0, 0, 0, 1);
-  border-style: solid;
-  border-width: 1px;
-}
- 
-.page-thq-queue-elm2 {
-  top: 196px;
-  left: 1042.5px;
-  width: 585px;
-  height: 585px;
-  position: absolute;
-  border-radius: 142px;
-}
- 
-.page-thq-chocolate-elm {
-  top: 139px;
-  left: 1491px;
-  width: 200px;
-  height: 200px;
+
+/* =========================
+   ELEMENTOS DECORATIVOS
+   ========================= */
+.page-thq-ellipse5-elm,
+.page-thq-queue-elm2,
+.page-thq-chocolate-elm,
+.page-thq-strawberry1-elm,
+.page-thq-blueberry-elm,
+.page-thq-leaf-elm {
   position: absolute;
 }
- 
-.page-thq-strawberry1-elm {
-  top: 658px;
-  left: 945px;
-  width: 200px;
-  height: 200px;
-  position: absolute;
-}
- 
-.page-thq-frame28-elm3 {
-  gap: 24.46808624267578px;
-  top: 101px;
-  left: 117px;
-  width: 492px;
-  display: flex;
-  position: absolute;
-  align-items: flex-start;
-  flex-shrink: 0;
-  flex-direction: column;
-}
- 
-.page-thq-frame23-elm {
-  width: 491.80853271484375px;
-  height: 115px;
-  display: flex;
-  position: relative;
-  align-self: stretch;
-  align-items: flex-start;
-}
- 
-.page-thq-logo-elm {
-  gap: 16.776681900024414px;
-  top: 31.80850601196289px;
-  left: 119.89360809326172px;
-  width: 357px;
-  display: flex;
-  position: absolute;
-  align-items: center;
-  justify-content: center;
-}
- 
+
+/* =========================
+   TEXTO Y LOGO
+   ========================= */
 .page-thq-text-elm1 {
   color: rgba(34, 50, 72, 1);
-  height: auto;
-  font-size: 83.88340759277344px;
-  font-style: Regular;
-  text-align: left;
-  font-family: Baloo Paaji;
-  font-weight: 400;
-  line-height: 100%;
-  font-stretch: normal;
-  text-decoration: none;
+  font-size: 84px;
+  font-family: "Baloo Paaji", sans-serif;
 }
- 
-.page-thq-image1-elm {
-  top: 0px;
-  left: 0px;
-  width: 115px;
-  height: 115px;
-  position: absolute;
-}
- 
+
 .page-thq-text-elm2 {
-  top: 424px;
-  left: 117px;
-  color: rgba(0, 0, 0, 1);
-  width: 933px;
-  height: auto;
   position: absolute;
   font-size: 96px;
-  font-style: Block;
-  text-align: left;
-  font-family: Porter Sans Block;
-  font-weight: 400;
-  line-height: 121.54639434814453px;
-  font-stretch: normal;
-  text-decoration: none;
+  font-family: "Porter Sans Block", sans-serif;
 }
- 
-.page-thq-text-elm3 {
-  color: rgba(0, 0, 0, 1);
-}
- 
-.page-thq-frame29-elm {
-  top: 885px;
-  left: 0px;
-  width: 692px;
-  height: 153.712158203125px;
-  display: flex;
-  position: absolute;
-  align-items: flex-start;
-  flex-shrink: 0;
-}
- 
-.page-thq-group1-elm {
-  top: 37.79507827758789px;
-  left: 116.82123565673828px;
-  width: 276.3658447265625px;
-  height: 79.98310089111328px;
-  display: flex;
-  position: absolute;
-  align-items: flex-start;
-  flex-shrink: 1;
-}
- 
-.page-thq-frame26-elm {
-  top: 0px;
-  left: 0px;
-  width: 276.3658447265625px;
-  height: 79.98310089111328px;
-  display: flex;
-  position: absolute;
-  align-items: flex-start;
-  flex-shrink: 0;
-}
- 
+
+/* =========================
+   INSTAGRAM (SOLO TEXTO)
+   ========================= */
 .page-thq-text-elm5 {
-  color: rgba(0, 0, 0, 1);
-  width: 263px;
-  height: auto;
-  position: absolute;
-  font-size: 64.460693359375px;
-  font-style: SemiBold;
-  text-align: left;
-  font-family: Baloo Bhaijaan 2;
-  font-weight: 600;
-  line-height: 85.94758605957031px;
-  font-stretch: normal;
-  text-decoration: none;
+  font-size: 64px;
+  font-family: "Baloo Bhaijaan 2", sans-serif;
 }
- 
-.page-thq-frame25-elm {
-  top: 42.60335159301758px;
-  left: 393.6546630859375px;
-  width: 75px;
-  height: 75px;
-  position: absolute;
+
+/* =========================
+   BLOQUEO TOTAL TELEPORTHQ
+   ========================= */
+[class*="teleport"],
+a[href*="teleporthq"],
+iframe[src*="teleporthq"] {
+  display: none !important;
+  opacity: 0 !important;
+  visibility: hidden !important;
+  pointer-events: none !important;
 }
- 
-.page-thq-blueberry-elm {
-  top: 125px;
-  left: 1015.9163818359375px;
-  width: 159px;
-  height: 159px;
-  position: absolute;
-}
- 
-.page-thq-leaf-elm {
-  top: 653px;
-  left: 1700.014404296875px;
-  width: 200px;
-  height: 200px;
-  position: absolute;
-}
- 
-.page-link {
-  display: contents;
-}
- 
-.page-container2 {
-  right: 50px;
-  border: 1px solid #ffffff5c;
-  bottom: 30px;
-  display: flex;
-  z-index: 22;
-  position: fixed;
-  box-shadow: 5px 5px 10px 0px rgba(31, 31, 31, 0.4);
-  min-height: auto;
-  align-items: center;
-  padding-top: 8px;
-  padding-left: 12px;
-  border-radius: 8px;
-  padding-right: 12px;
-  padding-bottom: 8px;
-  backdrop-filter: blur(6px);
-  background-color: rgba(41, 41, 41, 0.41);
-}
- 
-.page-icon1 {
-  width: 24px;
-  margin-right: 4px;
-}
- 
-.page-text2 {
-  color: white;
-  font-size: 13px;
-  font-style: normal;
-  font-weight: 500;
-  line-height: 24px;
-}
+
