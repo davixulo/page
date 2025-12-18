@@ -1,0 +1,1061 @@
+.home-container1 {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.home-thq-mac-book-pro161-elm1 {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(240, 204, 210, 1);
+}
+ 
+.home-thq-frame24-elm1 {
+  gap: 24.46808624267578px;
+  top: 100px;
+  left: 117px;
+  width: 492px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.home-thq-frame23-elm1 {
+  width: 491.80853271484375px;
+  height: 115px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+}
+ 
+.home-thq-logo-elm1 {
+  gap: 16.776681900024414px;
+  top: 31.80850601196289px;
+  left: 119.89360809326172px;
+  width: 357px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.home-thq-text-elm10 {
+  color: rgba(34, 50, 72, 1);
+  height: auto;
+  font-size: 83.88340759277344px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Baloo Paaji;
+  font-weight: 400;
+  line-height: 100%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-thq-image1-elm1 {
+  top: 0px;
+  left: 0px;
+  width: 115px;
+  height: 115px;
+  position: absolute;
+}
+ 
+.home-thq-text-elm11 {
+  top: 423px;
+  left: 117px;
+  color: rgba(0, 0, 0, 1);
+  width: 933px;
+  height: auto;
+  position: absolute;
+  font-size: 96px;
+  font-style: Block;
+  text-align: left;
+  font-family: Porter Sans Block;
+  font-weight: 400;
+  line-height: 121.54639434814453px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-thq-text-elm12 {
+  color: rgba(0, 0, 0, 1);
+}
+ 
+.home-thq-frame27-elm1 {
+  top: 884px;
+  left: 0px;
+  width: 692px;
+  height: 153.712158203125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.home-thq-group1-elm1 {
+  top: 37.79507827758789px;
+  left: 116.82123565673828px;
+  width: 276.3658447265625px;
+  height: 79.98310089111328px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.home-thq-frame26-elm1 {
+  top: 0px;
+  left: 0px;
+  width: 276.3658447265625px;
+  height: 79.98310089111328px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.home-thq-text-elm14 {
+  color: rgba(0, 0, 0, 1);
+  width: 263px;
+  height: auto;
+  position: absolute;
+  font-size: 64.460693359375px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Baloo Bhaijaan 2;
+  font-weight: 600;
+  line-height: 85.94758605957031px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-thq-frame25-elm1 {
+  top: 42.60335159301758px;
+  left: 393.6546630859375px;
+  width: 75px;
+  height: 75px;
+  position: absolute;
+}
+ 
+.home-thq-frame11-elm1 {
+  gap: 30px;
+  top: 897px;
+  left: 857px;
+  width: 843px;
+  height: 132px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 40px;
+  background-color: rgba(237, 237, 181, 1);
+}
+ 
+.home-thq-frame28-elm1 {
+  top: -9px;
+  left: 67px;
+  width: 710px;
+  height: 150px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.home-thq-pasteljackdaniels-elm1 {
+  top: 0px;
+  left: 186px;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+}
+ 
+.home-thq-queue-elm1 {
+  top: 0px;
+  left: 372px;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+}
+ 
+.home-thq-postres-elm1 {
+  top: 3px;
+  left: 556px;
+  width: 154px;
+  height: 147px;
+  position: absolute;
+}
+ 
+.home-thq-pastelselvanegra-elm1 {
+  top: 0px;
+  left: 0px;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+}
+ 
+.home-thq-ellipse5-elm1 {
+  top: 158px;
+  left: 958px;
+  width: 700px;
+  height: 700px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.home-thq-pasteljackdaniels-elm2 {
+  top: 189px;
+  left: 1006px;
+  width: 577px;
+  height: 638px;
+  position: absolute;
+  border-radius: 111px;
+}
+ 
+.home-thq-chocolate-elm1 {
+  top: 661.0533447265625px;
+  left: 912.113525390625px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+}
+ 
+.home-thq-strawberry1-elm1 {
+  top: 100px;
+  left: 875.02392578125px;
+  width: 247px;
+  height: 247px;
+  position: absolute;
+}
+ 
+.home-thq-blueberry-elm1 {
+  top: 698.0067749023438px;
+  left: 1565.383544921875px;
+  width: 159px;
+  height: 159px;
+  position: absolute;
+}
+ 
+.home-thq-leaf-elm1 {
+  top: 157.9320526123047px;
+  left: 1470.5262451171875px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+}
+ 
+.home-thq-mac-book-pro161-elm2 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(240, 204, 210, 1);
+}
+ 
+.home-thq-frame24-elm2 {
+  gap: 24.46808624267578px;
+  top: 100px;
+  left: 117px;
+  width: 492px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.home-thq-frame23-elm2 {
+  width: 491.80853271484375px;
+  height: 115px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+}
+ 
+.home-thq-logo-elm2 {
+  gap: 16.776681900024414px;
+  top: 31.80850601196289px;
+  left: 119.89360809326172px;
+  width: 357px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.home-thq-text-elm15 {
+  color: rgba(34, 50, 72, 1);
+  height: auto;
+  font-size: 83.88340759277344px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Baloo Paaji;
+  font-weight: 400;
+  line-height: 100%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-thq-image1-elm2 {
+  top: 0px;
+  left: 0px;
+  width: 115px;
+  height: 115px;
+  position: absolute;
+}
+ 
+.home-thq-text-elm16 {
+  top: 423px;
+  left: 117px;
+  color: rgba(0, 0, 0, 1);
+  width: 933px;
+  height: auto;
+  position: absolute;
+  font-size: 96px;
+  font-style: Block;
+  text-align: left;
+  font-family: Porter Sans Block;
+  font-weight: 400;
+  line-height: 121.54639434814453px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-thq-text-elm17 {
+  color: rgba(0, 0, 0, 1);
+}
+ 
+.home-thq-frame27-elm2 {
+  top: 884px;
+  left: 0px;
+  width: 692px;
+  height: 153.712158203125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.home-thq-group1-elm2 {
+  top: 37.79507827758789px;
+  left: 116.82123565673828px;
+  width: 276.3658447265625px;
+  height: 79.98310089111328px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.home-thq-frame26-elm2 {
+  top: 0px;
+  left: 0px;
+  width: 276.3658447265625px;
+  height: 79.98310089111328px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.home-thq-text-elm19 {
+  color: rgba(0, 0, 0, 1);
+  width: 263px;
+  height: auto;
+  position: absolute;
+  font-size: 64.460693359375px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Baloo Bhaijaan 2;
+  font-weight: 600;
+  line-height: 85.94758605957031px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-thq-frame25-elm2 {
+  top: 42.60335159301758px;
+  left: 393.6546630859375px;
+  width: 75px;
+  height: 75px;
+  position: absolute;
+}
+ 
+.home-thq-frame11-elm2 {
+  gap: 30px;
+  top: 897px;
+  left: 857px;
+  width: 843px;
+  height: 132px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 40px;
+  background-color: rgba(237, 237, 181, 1);
+}
+ 
+.home-thq-frame28-elm2 {
+  top: -9px;
+  left: 67px;
+  width: 710px;
+  height: 150px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.home-navlink {
+  display: contents;
+}
+ 
+.home-thq-pasteljackdaniels-elm3 {
+  top: 0px;
+  left: 186px;
+  width: 150px;
+  height: 150px;
+  display: block;
+  position: absolute;
+  text-decoration: none;
+}
+ 
+.home-thq-queue-elm2 {
+  top: 0px;
+  left: 372px;
+  width: 150px;
+  height: 150px;
+  display: block;
+  position: absolute;
+}
+ 
+.home-thq-postres-elm2 {
+  top: 3px;
+  left: 556px;
+  width: 154px;
+  height: 147px;
+  display: block;
+  position: absolute;
+}
+ 
+.home-thq-ellipse5-elm2 {
+  top: 166px;
+  right: -21px;
+  width: 1143px;
+  height: 736px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: hidden;
+  border-width: 1px;
+  backdrop-filter: blur(5px);
+}
+ 
+.home-thq-pasteljackdaniels-elm4 {
+  top: 189px;
+  left: 1006px;
+  width: 577px;
+  height: 638px;
+  position: absolute;
+  border-radius: 111px;
+}
+ 
+.home-thq-chocolate-elm2 {
+  top: 661.0533447265625px;
+  left: 912.113525390625px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+}
+ 
+.home-thq-strawberry1-elm2 {
+  top: 100px;
+  left: 875.02392578125px;
+  width: 247px;
+  height: 247px;
+  position: absolute;
+}
+ 
+.home-thq-blueberry-elm2 {
+  top: 698.0067749023438px;
+  left: 1565.383544921875px;
+  width: 159px;
+  height: 159px;
+  position: absolute;
+}
+ 
+.home-thq-leaf-elm2 {
+  top: 157.9320526123047px;
+  left: 1470.5262451171875px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+}
+ 
+.home-container2 {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.home-thq-mac-book-pro161-elm3 {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(240, 204, 210, 1);
+}
+ 
+.home-thq-frame24-elm3 {
+  gap: 24.46808624267578px;
+  top: 100px;
+  left: 117px;
+  width: 492px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.home-thq-frame23-elm3 {
+  width: 491.80853271484375px;
+  height: 115px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+}
+ 
+.home-thq-logo-elm3 {
+  gap: 16.776681900024414px;
+  top: 31.80850601196289px;
+  left: 119.89360809326172px;
+  width: 357px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.home-thq-text-elm20 {
+  color: rgba(34, 50, 72, 1);
+  height: auto;
+  font-size: 83.88340759277344px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Baloo Paaji;
+  font-weight: 400;
+  line-height: 100%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-thq-image1-elm3 {
+  top: 0px;
+  left: 0px;
+  width: 115px;
+  height: 115px;
+  position: absolute;
+}
+ 
+.home-thq-text-elm21 {
+  top: 423px;
+  left: 117px;
+  color: rgba(0, 0, 0, 1);
+  width: 933px;
+  height: auto;
+  position: absolute;
+  font-size: 96px;
+  font-style: Block;
+  text-align: left;
+  font-family: Porter Sans Block;
+  font-weight: 400;
+  line-height: 121.54639434814453px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-thq-text-elm22 {
+  color: rgba(0, 0, 0, 1);
+}
+ 
+.home-thq-frame27-elm3 {
+  top: 884px;
+  left: 0px;
+  width: 692px;
+  height: 153.712158203125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.home-thq-group1-elm3 {
+  top: 37.79507827758789px;
+  left: 116.82123565673828px;
+  width: 276.3658447265625px;
+  height: 79.98310089111328px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.home-thq-frame26-elm3 {
+  top: 0px;
+  left: 0px;
+  width: 276.3658447265625px;
+  height: 79.98310089111328px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.home-thq-text-elm24 {
+  color: rgba(0, 0, 0, 1);
+  width: 263px;
+  height: auto;
+  position: absolute;
+  font-size: 64.460693359375px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Baloo Bhaijaan 2;
+  font-weight: 600;
+  line-height: 85.94758605957031px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-thq-frame25-elm3 {
+  top: 42.60335159301758px;
+  left: 393.6546630859375px;
+  width: 75px;
+  height: 75px;
+  position: absolute;
+}
+ 
+.home-thq-frame11-elm3 {
+  gap: 30px;
+  top: 897px;
+  left: 857px;
+  width: 843px;
+  height: 132px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 40px;
+  background-color: rgba(237, 237, 181, 1);
+}
+ 
+.home-thq-frame28-elm3 {
+  top: -9px;
+  left: 67px;
+  width: 710px;
+  height: 150px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.home-thq-pasteljackdaniels-elm5 {
+  top: 0px;
+  left: 186px;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+}
+ 
+.home-thq-queue-elm3 {
+  top: 0px;
+  left: 372px;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+}
+ 
+.home-thq-postres-elm3 {
+  top: 3px;
+  left: 556px;
+  width: 154px;
+  height: 147px;
+  position: absolute;
+}
+ 
+.home-thq-pastelselvanegra-elm2 {
+  top: 0px;
+  left: 0px;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+}
+ 
+.home-thq-ellipse5-elm3 {
+  top: 158px;
+  left: 958px;
+  width: 700px;
+  height: 700px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.home-thq-pasteljackdaniels-elm6 {
+  top: 189px;
+  left: 1006px;
+  width: 577px;
+  height: 638px;
+  position: absolute;
+  border-radius: 111px;
+}
+ 
+.home-thq-chocolate-elm3 {
+  top: 661.0533447265625px;
+  left: 912.113525390625px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+}
+ 
+.home-thq-strawberry1-elm3 {
+  top: 100px;
+  left: 875.02392578125px;
+  width: 247px;
+  height: 247px;
+  position: absolute;
+}
+ 
+.home-thq-blueberry-elm3 {
+  top: 698.0067749023438px;
+  left: 1565.383544921875px;
+  width: 159px;
+  height: 159px;
+  position: absolute;
+}
+ 
+.home-thq-leaf-elm3 {
+  top: 157.9320526123047px;
+  left: 1470.5262451171875px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+}
+ 
+.home-thq-mac-book-pro161-elm4 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(240, 204, 210, 1);
+}
+ 
+.home-thq-frame24-elm4 {
+  gap: 24.46808624267578px;
+  top: 100px;
+  left: 117px;
+  width: 492px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.home-thq-frame23-elm4 {
+  width: 491.80853271484375px;
+  height: 115px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+}
+ 
+.home-thq-logo-elm4 {
+  gap: 16.776681900024414px;
+  top: 31.80850601196289px;
+  left: 119.89360809326172px;
+  width: 357px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.home-thq-text-elm25 {
+  color: rgba(34, 50, 72, 1);
+  height: auto;
+  font-size: 83.88340759277344px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Baloo Paaji;
+  font-weight: 400;
+  line-height: 100%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-thq-image1-elm4 {
+  top: 0px;
+  left: 0px;
+  width: 115px;
+  height: 115px;
+  position: absolute;
+}
+ 
+.home-thq-text-elm26 {
+  top: 423px;
+  left: 117px;
+  color: rgba(0, 0, 0, 1);
+  width: 933px;
+  height: auto;
+  position: absolute;
+  font-size: 96px;
+  font-style: Block;
+  text-align: left;
+  font-family: Porter Sans Block;
+  font-weight: 400;
+  line-height: 121.54639434814453px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-thq-text-elm27 {
+  color: rgba(0, 0, 0, 1);
+}
+ 
+.home-thq-frame27-elm4 {
+  top: 884px;
+  left: 0px;
+  width: 692px;
+  height: 153.712158203125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.home-thq-group1-elm4 {
+  top: 37.79507827758789px;
+  left: 116.82123565673828px;
+  width: 276.3658447265625px;
+  height: 79.98310089111328px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.home-thq-frame26-elm4 {
+  top: 0px;
+  left: 0px;
+  width: 276.3658447265625px;
+  height: 79.98310089111328px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.home-thq-text-elm29 {
+  color: rgba(0, 0, 0, 1);
+  width: 263px;
+  height: auto;
+  position: absolute;
+  font-size: 64.460693359375px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Baloo Bhaijaan 2;
+  font-weight: 600;
+  line-height: 85.94758605957031px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-thq-frame25-elm4 {
+  top: 42.60335159301758px;
+  left: 393.6546630859375px;
+  width: 75px;
+  height: 75px;
+  position: absolute;
+}
+ 
+.home-thq-frame11-elm4 {
+  gap: 30px;
+  top: 897px;
+  left: 857px;
+  width: 843px;
+  height: 132px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 40px;
+  background-color: rgba(237, 237, 181, 1);
+}
+ 
+.home-thq-frame28-elm4 {
+  top: -9px;
+  left: 67px;
+  width: 710px;
+  height: 150px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.home-thq-pasteljackdaniels-elm7 {
+  top: 0px;
+  left: 186px;
+  width: 150px;
+  height: 150px;
+  display: block;
+  position: absolute;
+}
+ 
+.home-thq-queue-elm4 {
+  top: 0px;
+  left: 372px;
+  width: 150px;
+  height: 150px;
+  display: block;
+  position: absolute;
+}
+ 
+.home-thq-postres-elm4 {
+  top: 3px;
+  left: 556px;
+  width: 154px;
+  height: 147px;
+  display: block;
+  position: absolute;
+}
+ 
+.home-thq-pastelselvanegra-elm3 {
+  top: 0px;
+  left: 0px;
+  width: 150px;
+  height: 150px;
+  display: block;
+  position: absolute;
+}
+ 
+.home-thq-ellipse5-elm4 {
+  top: 166px;
+  right: -21px;
+  width: 1143px;
+  height: 736px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: hidden;
+  border-width: 1px;
+  backdrop-filter: blur(5px);
+}
+ 
+.home-thq-pasteljackdaniels-elm8 {
+  top: 189px;
+  left: 1006px;
+  width: 577px;
+  height: 638px;
+  position: absolute;
+  border-radius: 111px;
+}
+ 
+.home-thq-chocolate-elm4 {
+  top: 661.0533447265625px;
+  left: 912.113525390625px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+}
+ 
+.home-thq-strawberry1-elm4 {
+  top: 100px;
+  left: 875.02392578125px;
+  width: 247px;
+  height: 247px;
+  position: absolute;
+}
+ 
+.home-thq-blueberry-elm4 {
+  top: 698.0067749023438px;
+  left: 1565.383544921875px;
+  width: 159px;
+  height: 159px;
+  position: absolute;
+}
+ 
+.home-thq-leaf-elm4 {
+  top: 157.9320526123047px;
+  left: 1470.5262451171875px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+}
+ 
+.home-link {
+  display: contents;
+}
+ 
+.home-container3 {
+  right: 50px;
+  border: 1px solid #ffffff5c;
+  bottom: 30px;
+  display: flex;
+  z-index: 22;
+  position: fixed;
+  box-shadow: 5px 5px 10px 0px rgba(31, 31, 31, 0.4);
+  min-height: auto;
+  align-items: center;
+  padding-top: 8px;
+  padding-left: 12px;
+  border-radius: 8px;
+  padding-right: 12px;
+  padding-bottom: 8px;
+  backdrop-filter: blur(6px);
+  background-color: rgba(41, 41, 41, 0.41);
+}
+ 
+.home-icon1 {
+  width: 24px;
+  margin-right: 4px;
+}
+ 
+.home-text5 {
+  color: white;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+}
